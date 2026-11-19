@@ -1,0 +1,53 @@
+{
+  "format": "kartika-manifest",
+  "version": 1,
+  "rev": 1,
+  "updated": "2026-11-19T07:26:36Z",
+  "packs": [
+    {
+      "id": "504-absolutely-essential-words",
+      "name": "504 Absolutely Essential Words",
+      "description": "",
+      "version": 1,
+      "free": true,
+      "file": "504-absolutely-essential-words.zip",
+      "sha256": "1892181e42443e4934927f6ff3717c16289e020ec8785503b8848a49d173581c",
+      "size": 93715,
+      "cards": 505,
+      "urls": [
+        "https://raw.githubusercontent.com/zabanitest-cmyk/kartika-packs/main/packs/504-absolutely-essential-words.zip",
+        "https://cdn.jsdelivr.net/gh/zabanitest-cmyk/kartika-packs@main/packs/504-absolutely-essential-words.zip"
+      ]
+    },
+    {
+      "id": "collocations",
+      "name": "English Collocations in Use",
+      "description": "",
+      "version": 1,
+      "free": false,
+      "file": "collocations.kpack",
+      "sha256": "b9634ca0585f207dbf468dd3f8081397d600e011507816d7a94d96b89393d7b5",
+      "size": 392005,
+      "cards": 2794,
+      "urls": [
+        "https://raw.githubusercontent.com/zabanitest-cmyk/kartika-packs/main/packs/collocations.kpack",
+        "https://cdn.jsdelivr.net/gh/zabanitest-cmyk/kartika-packs@main/packs/collocations.kpack"
+      ]
+    },
+    {
+      "id": "oxford-elementary-vocabulary",
+      "name": "Oxford Elementary Vocabulary",
+      "description": "",
+      "version": 1,
+      "free": false,
+      "file": "oxford-elementary-vocabulary.kpack",
+      "sha256": "2548ae7f55785a3de71f43dd72195e6fd11f9e7ac34efeb04014f9537956aa61",
+      "size": 272376,
+      "cards": 2509,
+      "urls": [
+        "https://raw.githubusercontent.com/zabanitest-cmyk/kartika-packs/main/packs/oxford-elementary-vocabulary.kpack",
+        "https://cdn.jsdelivr.net/gh/zabanitest-cmyk/kartika-packs@main/packs/oxford-elementary-vocabulary.kpack"
+      ]
+    }
+  ]
+}
