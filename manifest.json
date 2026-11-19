@@ -2,7 +2,7 @@
   "format": "kartika-manifest",
   "version": 1,
   "rev": 1,
-  "updated": "2026-11-19T07:26:36Z",
+  "updated": "2026-11-19T20:27:43Z",
   "packs": [
     {
       "id": "504-absolutely-essential-words",
@@ -11,7 +11,7 @@
       "version": 1,
       "free": true,
       "file": "504-absolutely-essential-words.zip",
-      "sha256": "1892181e42443e4934927f6ff3717c16289e020ec8785503b8848a49d173581c",
+      "sha256": "0a01ac355f9e23f88b906e35b99769aa857a4c40f8eb0d300ec618561ede413d",
       "size": 93715,
       "cards": 505,
       "urls": [
@@ -24,14 +24,14 @@
       "name": "English Collocations in Use",
       "description": "",
       "version": 1,
-      "free": false,
-      "file": "collocations.kpack",
-      "sha256": "b9634ca0585f207dbf468dd3f8081397d600e011507816d7a94d96b89393d7b5",
-      "size": 392005,
+      "free": true,
+      "file": "collocations.zip",
+      "sha256": "9227b785db093ad3f3f29a8d04735541c54cdd1a7fe02c7d358f31289afecafe",
+      "size": 391852,
       "cards": 2794,
       "urls": [
-        "https://raw.githubusercontent.com/zabanitest-cmyk/kartika-packs/main/packs/collocations.kpack",
-        "https://cdn.jsdelivr.net/gh/zabanitest-cmyk/kartika-packs@main/packs/collocations.kpack"
+        "https://raw.githubusercontent.com/zabanitest-cmyk/kartika-packs/main/packs/collocations.zip",
+        "https://cdn.jsdelivr.net/gh/zabanitest-cmyk/kartika-packs@main/packs/collocations.zip"
       ]
     },
     {
@@ -39,14 +39,14 @@
       "name": "Oxford Elementary Vocabulary",
       "description": "",
       "version": 1,
-      "free": false,
-      "file": "oxford-elementary-vocabulary.kpack",
-      "sha256": "2548ae7f55785a3de71f43dd72195e6fd11f9e7ac34efeb04014f9537956aa61",
-      "size": 272376,
+      "free": true,
+      "file": "oxford-elementary-vocabulary.zip",
+      "sha256": "f2af2e59722230621577912287df38d4c81dfa3b95533d0e5f8de432d53a021f",
+      "size": 272227,
       "cards": 2509,
       "urls": [
-        "https://raw.githubusercontent.com/zabanitest-cmyk/kartika-packs/main/packs/oxford-elementary-vocabulary.kpack",
-        "https://cdn.jsdelivr.net/gh/zabanitest-cmyk/kartika-packs@main/packs/oxford-elementary-vocabulary.kpack"
+        "https://raw.githubusercontent.com/zabanitest-cmyk/kartika-packs/main/packs/oxford-elementary-vocabulary.zip",
+        "https://cdn.jsdelivr.net/gh/zabanitest-cmyk/kartika-packs@main/packs/oxford-elementary-vocabulary.zip"
       ]
     }
   ]
